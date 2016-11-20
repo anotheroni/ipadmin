@@ -1,0 +1,9 @@
+TD          {font-family: Sans-serif;}
+A.mainmenu	{color: #FFFFFF; text-decoration: none;}
+A.mainmenu:hover {color: #FFFFFF; text-decoration: underline;}
+A.editlink  {color: blue; text-decoration: none;}
+A.menulink	{color: white; text-decoration: none;}
+A.calender	{color: black; text-decoration: none; font-family: monospace;}
+A.calender2	{color: white; text-decoration: none; font-family: monospace;}
+FONT.calender{color: white; text-decoration: none; font-family: monospace;}
+TD.calender {color: black;}
